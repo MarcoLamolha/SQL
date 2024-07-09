@@ -1,0 +1,34 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "postgres",
+            "username": "postgres",
+            "name": "advanced_sql",
+            "password": "postgres54321"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "sql",
+            "database": "advanced_sql",
+            "username": "sql"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "sql_advanced",
+            "database": "sql",
+            "username": "sql",
+            "password": "sql"
+        }
+    ],
+    "azureAutomation.directory.basePath": ""
+}
