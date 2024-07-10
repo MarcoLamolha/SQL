@@ -1,4 +1,4 @@
-# DQL vs. DDL vs. DML vs. DCL
+ DQL vs. DDL vs. DML vs. DCL
 
 Data management and maintenance are essential components of modern-day database systems. In this lecture, we will discuss the differences between DQL, DDL, DML, and DCL and provide examples of each.
 
